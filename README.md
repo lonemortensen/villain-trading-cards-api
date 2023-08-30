@@ -7,7 +7,7 @@ In the Female Supervillain Trading Card app, users can:
 - add female supervillain trading cards to a database.
 - delete female supervillain trading cards from a database.
 
-![Female Supervillain Trading Card app](img/supervillain-trading-card-api-screenShot.png)
+![Female Supervillain Trading Card app](img/supervillain-trading-card-screenShot.png)
 
 ## Project Background
 The Female Supervillain Trading Card app was built as part of Skillcrush's "Using Python to Build Web Apps" course. 
