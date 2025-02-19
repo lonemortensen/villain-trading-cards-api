@@ -49,7 +49,7 @@ During this project, I practiced:
 - HTML5
 
 ## Launch
-[See the live version of the Female Supervillain Trading Card app (REST API version) here.](https://skillcrush-py-cl02-ls10-villain-cards-restapi-flask-final.lonemortensen.repl.co/)
+[See the live version of the Female Supervillain Trading Card app (REST API version) here.](https://replit.com/@lonemortensen/skillcrush-py-cl02-ls10-villain-cards-restAPI-flask-final)
 
 ## Acknowledgements
 
